@@ -1,0 +1,4 @@
+com/stackroute/virtualassistance/apigateway/components/UpAndRunning.class
+com/stackroute/virtualassistance/apigateway/ApiGatewayApplication.class
+com/stackroute/virtualassistance/apigateway/components/ServiceInstanceRestController.class
+com/stackroute/virtualassistance/apigateway/config/SwaggerConfig.class
